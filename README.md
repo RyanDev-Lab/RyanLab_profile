@@ -1,7 +1,5 @@
-Ryan_Ditko
-
 # 💫 About Me:
-🚀 I'm currently working on  <br>A **Discord bot** that manages roles and a helper in security. <br><br>🤝 I'm looking to collaborate on  <br>**Automation projects** using **Katalon Recorder** and **Magical** to improve workflow efficiency.  <br><br>🛠️ I'm looking for help with  <br>Optimizing **Python scripts** for automation and troubleshooting **PC performance issues**.  <br><br>🌱 I'm currently learning  <br>**SQL** and **Python**, focusing on **while loops**, **try-except handling**, and **database management**.  <br><br>💬 Ask me about  <br>**Programming logic**, **automation tools**, and **tech gadgets like the Samsung Galaxy Watch 7**!  <br><br>⚡ Fun fact  <br>I believe every **flowchart** should have **loop structures** by default—consistency is key! 😆  <br>
+🚀 I'm currently working on  <br>A **Discord bot** that manages roles and a helper in security. <br><br>🤝 I'm looking to collaborate on  <br>**Automation projects** using **Katalon Recorder** and **Magical** to improve workflow efficiency.  <br><br>🛠️ I'm looking for help with  <br>Optimizing **Python scripts** for automation and troubleshooting **PC performance issues**.  <br><br>🌱 I'm currently learning  <br>**SQL** and **Python**, focusing on **while loops**, **try-except handling**, and **database management**.  <br><br>💬 Ask me about  <br>**Programming logic**, **automation tools**, and **tech gadgets**!  <br><br>⚡ Fun fact  <br>I believe every **flowchart** should have **loop structures** by default—consistency is key! 😆  <br>
 
 
 ## 🌐 Socials:
